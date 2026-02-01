@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombreCompleto": "Ana GarcÃ­a LÃ³pez",
+    "edad": 22,
+    "calificacion": "NOTABLE"
+  },
+  {
+    "id": 2,
+    "nombreCompleto": "Luis MartÃ­nez Ruiz",
+    "edad": 23,
+    "calificacion": "APROBADO"
+  },
+  {
+    "id": 3,
+    "nombreCompleto": "MarÃ­a SÃ¡nchez PÃ©rez",
+    "edad": 21,
+    "calificacion": "NOTABLE"
+  },
+  {
+    "id": 4,
+    "nombreCompleto": "Carlos FernÃ¡ndez GÃ³mez",
+    "edad": 24,
+    "calificacion": "INSUFICIENTE"
+  },
+  {
+    "id": 5,
+    "nombreCompleto": "LucÃ­a Moreno DÃ­az",
+    "edad": 22,
+    "calificacion": "SOBRESALIENTE"
+  }
+]
